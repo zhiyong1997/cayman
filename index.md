@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ## Course Information
 - **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu)
 - **Lectures**: TR 5:30 pm - 6:45 pm, HRBB 113
