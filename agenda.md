@@ -1,5 +1,7 @@
 ---
 layout: default
+title: ZKP Workshop
+description: Zero-knowledge Proof Workshop at CESC
 ---
 
 
