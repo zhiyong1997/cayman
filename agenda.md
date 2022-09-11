@@ -4,7 +4,7 @@ title: ZKP Workshop
 description: Zero-knowledge Proof Workshop at CESC
 ---
 
-
+This is the agenda for the workshop.
 ## Schedule (tentative)
 
 <table style="table-layout: fixed; font-size: 88%;">
