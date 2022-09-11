@@ -1,7 +1,5 @@
 title: Zero-Knowledge Proof Workshop 
-description: Affiliated with [CESC https://cesc.io/]
-github:
-  is_project_page: false
-  show_downloads: false
+description: Affiliated with CESC <https://cesc.io/>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
