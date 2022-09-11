@@ -1,25 +1,15 @@
 ---
 layout: default
 ---
+This is the webpage for the Zero-Knowledge proof workshop at [CESC](https://cesc.io/). This conference is organized by [Berkeley RDI](https://rdi.berkeley.edu/). **(Other descriptions)**
 
-Workshop Description.
+## Overview
+- **Date**: Oct. 31st - Nov. 1st, 2022
+- **Venue**: 
+- **Other**:
 
-## Course Information
-- **Instructor**: Prof. Yupeng Zhang (zhangyp@tamu.edu)
-- **Lectures**: TR 5:30 pm - 6:45 pm, HRBB 113
-- **Office Hour**: 1-2 pm Monday or by appointment, HRBB 414A
-- **TA**: Zhiyong Fang (zhiyong.fang.1997@tamu.edu)
-- **TA's Office Hour**: 9-11 am Thursday or by appointment, HRBB 423C
-
-## Course Description
-**Contents:** Fundamental concepts and principles of computer security, operating system and network security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec and VPN, wireless and web security. 
-
-
-**Textbooks:**
-- (Required) Introduction to Computer Security, by Michael Goodrich and Roberto Tamassia, Addison-Wesley Pearson, ISBN-10: 0-321-51294-4
-
-- (Optional) Handbook of Applied Cryptography – available online at: http://cacr.uwaterloo.ca/hac/
-
+## Description
+**Target:** We host this workshop to enhance the communication in the ZKP community. We target at helping Ph.D. students and young professionals to build connections with each other, etc..
 
 
 ## Schedule (tentative)
