@@ -17,7 +17,7 @@ The Woz (430-438), Soda Hall, UC Berkeley.
 - Yupeng Zhang (Texas A&M University)
 
 ## Call for Contributed Talks
-We encourage submissions of contributed talks related to zero-knowledge proofs and their applications in blockchain and web3. Please submit the information of your talk via this [form](https://forms.gle/KzsErhMkG71Gjtrm9). The submission deadline is Oct. 15th. 
+We encourage submissions of contributed talks related to zero-knowledge proofs and their applications in blockchain and web3. Please submit the information of your talk via this [form](https://forms.gle/KzsErhMkG71Gjtrm9). The submission deadline is Oct. 10th. 
 
 
 
