@@ -1,37 +1,25 @@
 ---
 layout: default
 ---
-This is the webpage for the Zero-Knowledge proof workshop at [CESC](https://cesc.io/). This conference is organized by [Berkeley RDI](https://rdi.berkeley.edu/). **(Other descriptions)**
 
-## Overview
-- **Date**: Oct. 31st - Nov. 1st, 2022
-- **Venue**: 
-- **Other**:
+The Zero-Knowledge Proof Workshop, affiliated with the [Crypto Economics Security Conference (CESC)](https://cesc.io/), aims to gather researchers, students, practitioners, and entrepreneurs in academia and industry interested in the design of zero-knowledge proofs and their applications in blockchain and web3. The workshop aims to provide an overview of the state-of-the-art development of ZKPs and discuss current deployment of ZKPs in various blockchain applications and to highlight specific challenges and open problems that arise in these settings.
 
-## Description
-**Target:** We host this workshop to enhance the communication in the ZKP community. We target at helping Ph.D. students and young professionals to build connections with each other, etc..
+The workshop is hosted by [Berkeley RDI](https://rdi.berkeley.edu/), a multi-disciplinary campus-wide center, focusing on advancing the science, technology and education of web3, decentralization and empowering of a responsible digital economy.
 
-## Call for Contributed Talks
-We encourage submissions exploring a range of techniques and applications for privacy preserving machine learning, including, but not limited to:
-- Topic 1
-- Topic 2
-- Topic 3
+## Date
+Oct. 30th, 2022
+## Location
+The Woz (430-438), Soda Hall, UC Berkeley. 
 
-**Submission site:** the submisson site is available [Not Ready Yet](www.google.com).
-
-**Submission deadline:** Oct.?
-
-**Notifications:**
-
-## Committee
+## Organizing Committee
+- Sanjam Garg (UC Berkeley)
 - Dawn Song (UC Berkeley)
 - Yupeng Zhang (Texas A&M University)
 
-## Organizers
-- Person 1
-- Person 2
+## Call for Contributed Talks
+We encourage submissions of contributed talks related to zero-knowledge proofs and their applications in blockchain and web3. Please submit the information of your talk via this [form](https://forms.gle/KzsErhMkG71Gjtrm9). The submission deadline is Oct. 15th. 
 
-Contact: example@gmail.com
+
 
 
 
