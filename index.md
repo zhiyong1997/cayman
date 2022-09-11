@@ -17,8 +17,8 @@ We encourage submissions exploring a range of techniques and applications for pr
 - Topic 2
 - Topic 3
 
-**Submission site:** the submisson site is available [Not Ready Yet](www.google.com).
-**Submission deadline:**
+**Submission site:** the submisson site is available [Not Ready Yet](www.google.com)
+**Submission deadline:** Oct.?
 **Notifications:**
 
 ## Schedule (tentative)
