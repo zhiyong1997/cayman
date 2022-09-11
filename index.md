@@ -4,7 +4,7 @@ layout: default
 
 The Zero-Knowledge Proof Workshop, affiliated with the [Crypto Economics Security Conference (CESC)](https://cesc.io/), aims to gather researchers, students, practitioners, and entrepreneurs in academia and industry interested in the design of zero-knowledge proofs and their applications in blockchain and web3. The workshop aims to provide an overview of the state-of-the-art development of ZKPs and discuss current deployment of ZKPs in various blockchain applications and to highlight specific challenges and open problems that arise in these settings.
 
-The workshop is hosted by [Berkeley RDI](https://rdi.berkeley.edu/), a multi-disciplinary campus-wide center, focusing on advancing the science, technology and education of web3, decentralization and empowering of a responsible digital economy.
+<span style="font-size:4em;"> The workshop is hosted by [Berkeley RDI](https://rdi.berkeley.edu/), a multi-disciplinary campus-wide center, focusing on advancing the science, technology and education of web3, decentralization and empowering of a responsible digital economy. </span>
 
 ## Date
 Oct. 30th, 2022
