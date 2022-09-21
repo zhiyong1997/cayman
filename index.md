@@ -123,7 +123,7 @@ The schedule will be announced soon.
   
   <tbody>
       <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
+        <td><img style="display:block;" width="80%" height="80%" src=
                  "https://pratyushmishra.com/img/profile.png" />
             <p><b>Pratyush Mishra</b></p>
         </td>
@@ -132,7 +132,7 @@ The schedule will be announced soon.
         </td>
       </tr>
      <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
+        <td><img style="display:block;" width="80%" height="80%" src=
                  "https://fredfeng.github.io/img/me.jpg" /> 
             <p><b>Yu Feng</b></p>
         </td>
@@ -141,7 +141,7 @@ The schedule will be announced soon.
         </td>
       </tr>
            <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
+        <td><img style="display:block;" width="80%" height="80%" src=
                  "https://avatars.githubusercontent.com/u/9260812?v=4" /> 
              <p><b>Howard Wu</b></p>
         </td>
@@ -150,7 +150,7 @@ The schedule will be announced soon.
         </td>
       </tr>
          <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
+        <td><img style="display:block;" width="80%" height="80%" src=
                  "https://crypto.stanford.edu/~dabo/DanBonehPictures/DaBo.jpg" /> 
             <p><b>Dan Boneh</b></p>
         </td>
@@ -159,7 +159,7 @@ The schedule will be announced soon.
         </td>
       </tr>
          <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
+        <td><img style="display:block;" width="80%" height="80%" src=
                  "https://unilateral.cat/wp-content/uploads/2020/03/JordiBaylina-e1584873161600.jpeg" />
             <p><b>Jordi Baylina</b></p>
         </td>
