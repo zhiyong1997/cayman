@@ -26,6 +26,7 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
 
 The workshop will include tutorials of zero-knowledge proof techniques, advanced talks from invited speakers and demos from leading tools. 
 
+The schedule will be announced soon.
 
 <!--
 
@@ -111,7 +112,66 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
 
 -->
 
+## Meet the Guest Speakers
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 40%;"> Speaker </th>
+      <th style="width: 60%;"> Brief Bio </th>
+    </tr>
+  </thead>
+  
+  <tbody>
+      <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://pratyushmishra.com/img/profile.png" />
+            <p><b>Pratyush Mishra</b></p>
+        </td>
+        <td>
+            Pratyush Mishra is a cryptographer at Aleo. He recently completed his Ph.D. in Computer Science at UC Berkeley. His research is focused on cryptography and security, with a focus on the theory and practice of succinct cryptographic proof systems, and on efficient systems for secure machine learning. He is a co-author of the arkworks zkSNARK libraries, which are used by several academic and industrial projects.
+        </td>
+      </tr>
+     <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://fredfeng.github.io/img/me.jpg" /> 
+            <p><b>Yu Feng</b></p>
+        </td>
+        <td>
+            Yu Feng is an assistant professor at UCSB, and a cofounder at Veridise, a startup for blockchain security. His research interests include programming languages, program verification, and program synthesis. He is the recipient of many distinguished/best paper awards at PLDI'18, ASE'20, CHI'21, and PLDI'22. Yu received his Ph.D. in computer science from UT Austin.
+        </td>
+      </tr>
+           <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://avatars.githubusercontent.com/u/9260812?v=4" /> 
+             <p><b>Howard Wu</b></p>
+        </td>
+        <td>
+            Howard Wu is one of the Co-founders of Aleo. He has a background in theoretical computer science and computer security, with research interests in theoretical and applied cryptography, verifiable computing, and zero-knowledge proofs. Howard serves as Advisor to Blockchain at Berkeley, and works with Professor Alessandro Chiesa, Co-Founder of Zcash, and Professor Dawn Song of the Initiative for Cryptocurrencies and Contracts (IC3). Howard is also a managing partner of Dekrypt Capital, an investment firm focused on privacy-preserving technologies, blockchain infrastructure, and early-stage ventures.
+        </td>
+      </tr>
+         <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://crypto.stanford.edu/~dabo/DanBonehPictures/DaBo.jpg" /> 
+            <p><b>Dan Boneh</b></p>
+        </td>
+        <td>
+            Dr. Boneh is a Professor of Computer Science at Stanford University where he heads the applied cryptography group and co-directs the Center for Blockchain Research. Dr. Boneh's research focuses on applications of cryptography to blockchains and to computer security. He is the author of over 200 publications in the field, and is a recipient of the 2014 ACM prize and the 2013 Godel prize.
+        </td>
+      </tr>
+         <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://unilateral.cat/wp-content/uploads/2020/03/JordiBaylina-e1584873161600.jpeg" />
+            <p><b>Jordi Baylina</b></p>
+        </td>
+        <td>
+            Jordi is one of the strongest Solidity developers in the world and a high impact contributor in the Ethereum community. He leads the technical development of the Polygon Hermez zkRollup and is currently working on the implementation of the zkEVM.
 
+He is the co-founder of the White Hat Group, which played a major role in rescuing funds from TheDAO and Parity Multisig hacks. He’s the author of the MiniMe token contract, the elliptic curves Solidity library, as well as numerous other established contracts in the Ethereum space.
 
+Jordi is also a well-respected auditor, most notably leading teams to audit the MakerDAO Stable Coin system and Aragon project. Jordi is the co-founder of the donation platform Giveth, DAppNode, Iden3 and most recently, Polygon Hermez.
+        </td>
+      </tr>
+  </tbody>
+</table>
 
 
