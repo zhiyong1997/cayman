@@ -26,9 +26,86 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
 
 The workshop will include tutorials of zero-knowledge proof techniques, advanced talks from invited speakers and demos from leading tools. 
 
-The schedule will be announced soon. 
 
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 20%;"> Date </th>
+      <th style="width: 50%;"> Topic </th>
+      <th style="width: 30%;"> Speaker </th>
+    </tr>
+  </thead>
 
+  <tbody>
+      <tr>
+        <td>9:00 am-9:20 am   </td>
+        <td>Opening Remarks </td>
+        <td>Dawn Song </td>
+      </tr>
+      <tr>
+          <td align="center" colspan="3"><b>Morning Session(9:20 am - 12 pm)</b></td>
+      </tr>
+      <tr>
+        <td>9:20 am-10:10 am   </td>
+        <td>Tutorial on recent development of ZKP systems </td>
+        <td>Yupeng Zhang</td>
+      </tr>
+      <tr>
+        <td>10:10 am-11:00 am   </td>
+        <td>Recent theoretical advancements of ZKP </td>
+        <td>Abhishek Jain or Sanjam </td>
+      </tr>
+      <tr>
+        <td>11:00 am-11:30 am  </td>
+        <td>Scroll zkEVM </td>
+        <td>Ye Zhang </td>
+      </tr>
+      <tr>
+        <td>11:30 am-12:00 pm   </td>
+        <td>Arkworks: A Rust Ecosystem for Programming zkSNARKs </td>
+        <td>Pratyush Mishra </td>
+      </tr>
+      <tr>
+          <td align="center" colspan="3"><b>LUNCH BREAK (12:00 pm-1:00 pm)</b></td>
+      </tr>
+      <tr>
+          <td align="center" colspan="3"><b> Afternoon Session (1 pm-5 pm): talks & demos </b></td>
+      </tr>  
+      <tr>
+        <td>1:00 pm - 2:00 pm </td>
+        <td>TBD</td>
+        <td>Dan Boneh</td>
+      </tr>
+      <tr>
+        <td>2:00 pm - 2:30 pm  </td>
+        <td>Aleo </td>
+        <td>Howard Wu </td>
+      </tr> 
+      <tr>
+        <td>2:30 pm - 3:00 pm </td>
+        <td>Polygon zkEVM</td>
+        <td>Jordi Baylina </td>
+      </tr>
+      <tr>
+        <td>3:00 pm - 3:30 pm </td>
+        <td>Hardening ZK Circuits with Formal Methods</td>
+        <td>Yu Feng, Veridise </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3"><b>BREAK (3:30 pm - 3:45 pm)</b> </td>
+      </tr>
+      <tr>
+        <td>3:45 pm-4:15 pm </td>
+        <td>Risc0</td>
+        <td>Jeremy Bruestle </td>
+      </tr>
+      <tr>
+        <td>4:15 pm- 5pm </td>
+        <td>Contributed talks and demos </td>
+        <td>TBD </td>
+      </tr>
+    </tbody>
+</table>
 
 
 
