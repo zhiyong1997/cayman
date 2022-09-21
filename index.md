@@ -27,12 +27,14 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
 The workshop will include tutorials of zero-knowledge proof techniques, advanced talks from invited speakers and demos from leading tools. 
 
 
+<!--
+
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
       <th style="width: 20%;"> Date </th>
-      <th style="width: 50%;"> Topic </th>
-      <th style="width: 30%;"> Speaker </th>
+      <th style="width: 60%;"> Topic </th>
+      <th style="width: 20%;"> Speaker </th>
     </tr>
   </thead>
 
@@ -106,6 +108,8 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>
     </tbody>
 </table>
+
+-->
 
 
 
