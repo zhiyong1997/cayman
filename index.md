@@ -124,33 +124,6 @@ The schedule will be announced soon.
   <tbody>
       <tr>
         <td><img style="display:block;" width="100%" height="100%" src=
-                 "https://pratyushmishra.com/img/profile.png" />
-            <p><b>Pratyush Mishra</b></p>
-        </td>
-        <td>
-            Pratyush Mishra is a cryptographer at Aleo. He recently completed his Ph.D. in Computer Science at UC Berkeley. His research is focused on cryptography and security, with a focus on the theory and practice of succinct cryptographic proof systems, and on efficient systems for secure machine learning. He is a co-author of the arkworks zkSNARK libraries, which are used by several academic and industrial projects.
-        </td>
-      </tr>
-     <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
-                 "https://fredfeng.github.io/img/me.jpg" /> 
-            <p><b>Yu Feng</b></p>
-        </td>
-        <td>
-            Yu Feng is an assistant professor at UCSB, and a cofounder at Veridise, a startup for blockchain security. His research interests include programming languages, program verification, and program synthesis. He is the recipient of many distinguished/best paper awards at PLDI'18, ASE'20, CHI'21, and PLDI'22. Yu received his Ph.D. in computer science from UT Austin.
-        </td>
-      </tr>
-           <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
-                 "https://avatars.githubusercontent.com/u/9260812?v=4" /> 
-             <p><b>Howard Wu</b></p>
-        </td>
-        <td>
-            Howard Wu is one of the Co-founders of Aleo. He has a background in theoretical computer science and computer security, with research interests in theoretical and applied cryptography, verifiable computing, and zero-knowledge proofs. Howard serves as Advisor to Blockchain at Berkeley, and works with Professor Alessandro Chiesa, Co-Founder of Zcash, and Professor Dawn Song of the Initiative for Cryptocurrencies and Contracts (IC3). Howard is also a managing partner of Dekrypt Capital, an investment firm focused on privacy-preserving technologies, blockchain infrastructure, and early-stage ventures.
-        </td>
-      </tr>
-         <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
                  "https://crypto.stanford.edu/~dabo/DanBonehPictures/DaBo.jpg" /> 
             <p><b>Dan Boneh</b></p>
         </td>
@@ -158,7 +131,7 @@ The schedule will be announced soon.
             Dr. Boneh is a Professor of Computer Science at Stanford University where he heads the applied cryptography group and co-directs the Center for Blockchain Research. Dr. Boneh's research focuses on applications of cryptography to blockchains and to computer security. He is the author of over 200 publications in the field, and is a recipient of the 2014 ACM prize and the 2013 Godel prize.
         </td>
       </tr>
-         <tr>
+      <tr>
         <td><img style="display:block;" width="100%" height="100%" src=
                  "https://unilateral.cat/wp-content/uploads/2020/03/JordiBaylina-e1584873161600.jpeg" />
             <p><b>Jordi Baylina</b></p>
@@ -171,6 +144,55 @@ He is the co-founder of the White Hat Group, which played a major role in rescui
 Jordi is also a well-respected auditor, most notably leading teams to audit the MakerDAO Stable Coin system and Aragon project. Jordi is the co-founder of the donation platform Giveth, DAppNode, Iden3 and most recently, Polygon Hermez.
         </td>
       </tr>
+      <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://avatars.githubusercontent.com/u/9260812?v=4" /> 
+             <p><b>Howard Wu</b></p>
+        </td>
+        <td>
+            Howard Wu is one of the Co-founders of Aleo. He has a background in theoretical computer science and computer security, with research interests in theoretical and applied cryptography, verifiable computing, and zero-knowledge proofs. Howard serves as Advisor to Blockchain at Berkeley, and works with Professor Alessandro Chiesa, Co-Founder of Zcash, and Professor Dawn Song of the Initiative for Cryptocurrencies and Contracts (IC3). Howard is also a managing partner of Dekrypt Capital, an investment firm focused on privacy-preserving technologies, blockchain infrastructure, and early-stage ventures.
+        </td>
+      </tr>
+      <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://fredfeng.github.io/img/me.jpg" /> 
+            <p><b>Yu Feng</b></p>
+        </td>
+        <td>
+            Yu Feng is an assistant professor at UCSB, and a cofounder at Veridise, a startup for blockchain security. His research interests include programming languages, program verification, and program synthesis. He is the recipient of many distinguished/best paper awards at PLDI'18, ASE'20, CHI'21, and PLDI'22. Yu received his Ph.D. in computer science from UT Austin.
+        </td>
+      </tr>
+      <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://pratyushmishra.com/img/profile.png" />
+            <p><b>Pratyush Mishra</b></p>
+        </td>
+        <td>
+            Pratyush Mishra is a cryptographer at Aleo. He recently completed his Ph.D. in Computer Science at UC Berkeley. His research is focused on cryptography and security, with a focus on the theory and practice of succinct cryptographic proof systems, and on efficient systems for secure machine learning. He is a co-author of the arkworks zkSNARK libraries, which are used by several academic and industrial projects.
+        </td>
+      </tr>
+      <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://media-exp1.licdn.com/dms/image/C4D03AQGGwxZEE4VmmQ/profile-displayphoto-shrink_800_800/0/1663867729393?e=1669248000&v=beta&t=3OL60pD7Y0ArKWKkvGZV44a6qa_rEzGNhIEDQw4Ct_4" />
+            <p><b>Ye Zhang</b></p>
+        </td>
+        <td>
+            Ye Zhang is the cofounder of Scroll. His research is focusing on hardware acceleration for zero-knowledge proof, theoretical proving algorithms, and zk applications. His work has been published on the toppest computer archietcture and security conferences including ISCA, Usenix Security, etc.
+        </td>
+      </tr>
+      <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "http://people.tamu.edu/~zhangyp/photo.jpeg" />
+            <p><b>Yupeng Zhang</b></p>
+        </td>
+        <td>
+            Yupeng Zhang is an Assistant Professor of Computer Science and Engineering in Texas A&M University. His research is focused on applied cryptography, designing efficient zero-knowledge proof and secure multiparty computation protocols with applications to machine learning and blockchains. He is the recipient of the NSF CAREER Award, Facebook faculty research award and Google fellowship on privacy and security. Before joining Texas A&M, he was a postdoctoral researcher at UC Berkeley working with Prof. Dawn Song, and he obtained his PhD from the University of Maryland advised by Prof. Charalampos Papamanthou and Prof. Jonathan Katz.
+        </td>
+      </tr>
+     
+           
+         
+         
   </tbody>
 </table>
 
