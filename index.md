@@ -124,15 +124,6 @@ The schedule will be announced soon.
   <tbody>
       <tr>
         <td><img style="display:block;" width="100%" height="100%" src=
-                 "https://crypto.stanford.edu/~dabo/DanBonehPictures/DaBo.jpg" /> 
-            <p><b>Dan Boneh</b></p>
-        </td>
-        <td>
-            Dr. Boneh is a Professor of Computer Science at Stanford University where he heads the applied cryptography group and co-directs the Center for Blockchain Research. Dr. Boneh's research focuses on applications of cryptography to blockchains and to computer security. He is the author of over 200 publications in the field, and is a recipient of the 2014 ACM prize and the 2013 Godel prize.
-        </td>
-      </tr>
-      <tr>
-        <td><img style="display:block;" width="100%" height="100%" src=
                  "https://simons.berkeley.edu/sites/default/files/styles/profile_main/public/shafi-1.jpg?itok=h-GIsF6w" /> 
             <p><b>Shafi Goldwasser</b></p>
         </td>
@@ -142,6 +133,15 @@ The schedule will be announced soon.
 Goldwasser was the recipient of ACM Turing Award for 2012. She was also the recipient of the Gödel Prize in 1993 and another in 2001 for her work on interactive proofs and connections to approximation, and was awarded the ACM Grace Murray Hopper Award (1996), the RSA award in mathematics (1998), the ACM Athena award for women in computer science (2008), the Benjamin Franklin Medal in Computer and Cognitive Science (2010), the IEEE Emanuel R. Piore Award (2011), the Barnard College Medal of Distinction (2016), and the Suffrage Science Award (2016). She is a member of the AAAS, ACM, NAE, NAS, Israeli Academy of Science, London Mathematical Society, and Russian Academy of Science.
         </td>
       </tr>  
+      <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://crypto.stanford.edu/~dabo/DanBonehPictures/DaBo.jpg" /> 
+            <p><b>Dan Boneh</b></p>
+        </td>
+        <td>
+            Dr. Boneh is a Professor of Computer Science at Stanford University where he heads the applied cryptography group and co-directs the Center for Blockchain Research. Dr. Boneh's research focuses on applications of cryptography to blockchains and to computer security. He is the author of over 200 publications in the field, and is a recipient of the 2014 ACM prize and the 2013 Godel prize.
+        </td>
+      </tr>
       <tr>
         <td><img style="display:block;" width="100%" height="100%" src=
                  "https://unilateral.cat/wp-content/uploads/2020/03/JordiBaylina-e1584873161600.jpeg" />
