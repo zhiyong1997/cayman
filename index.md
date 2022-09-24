@@ -112,7 +112,7 @@ The schedule will be announced soon.
 
 -->
 
-## Meet the Guest Speakers
+## Meet the Invited Speakers
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -133,6 +133,17 @@ The schedule will be announced soon.
       </tr>
       <tr>
         <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://simons.berkeley.edu/sites/default/files/styles/profile_main/public/shafi-1.jpg?itok=h-GIsF6w" /> 
+            <p><b>Shafi Goldwasser</b></p>
+        </td>
+        <td>
+            Shafi Goldwasser is the Director of the Simons Institute for the Theory of Computing, and the C. Lester Hogan Professor in Electrical Engineering and Computer Sciences at UC Berkeley. She is also the RSA Professor of Electrical Engineering and Computer Science at MIT, and a professor of computer science and applied mathematics at the Weizmann Institute of Science in Israel. Goldwasser received a BS in applied mathematics from Carnegie Mellon University in 1979, and MS and PhD in computer science from UC Berkeley in 1984.
+
+Goldwasser was the recipient of ACM Turing Award for 2012. She was also the recipient of the Gödel Prize in 1993 and another in 2001 for her work on interactive proofs and connections to approximation, and was awarded the ACM Grace Murray Hopper Award (1996), the RSA award in mathematics (1998), the ACM Athena award for women in computer science (2008), the Benjamin Franklin Medal in Computer and Cognitive Science (2010), the IEEE Emanuel R. Piore Award (2011), the Barnard College Medal of Distinction (2016), and the Suffrage Science Award (2016). She is a member of the AAAS, ACM, NAE, NAS, Israeli Academy of Science, London Mathematical Society, and Russian Academy of Science.
+        </td>
+      </tr>  
+      <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
                  "https://unilateral.cat/wp-content/uploads/2020/03/JordiBaylina-e1584873161600.jpeg" />
             <p><b>Jordi Baylina</b></p>
         </td>
@@ -144,6 +155,14 @@ He is the co-founder of the White Hat Group, which played a major role in rescui
 Jordi is also a well-respected auditor, most notably leading teams to audit the MakerDAO Stable Coin system and Aragon project. Jordi is the co-founder of the donation platform Giveth, DAppNode, Iden3 and most recently, Polygon Hermez.
         </td>
       </tr>
+          <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://www.cs.jhu.edu/~abhishek/HomepageFiles/MeWeb.jpg" />
+            <p><b>Abhishek Jain</b></p>
+        </td>
+        <td>
+        </td>
+      </tr>    
       <tr>
         <td><img style="display:block;" width="100%" height="100%" src=
                  "https://avatars.githubusercontent.com/u/9260812?v=4" /> 
@@ -160,6 +179,22 @@ Jordi is also a well-respected auditor, most notably leading teams to audit the 
         </td>
         <td>
             Yu Feng is an assistant professor at UCSB, and a cofounder at Veridise, a startup for blockchain security. His research interests include programming languages, program verification, and program synthesis. He is the recipient of many distinguished/best paper awards at PLDI'18, ASE'20, CHI'21, and PLDI'22. Yu received his Ph.D. in computer science from UT Austin.
+        </td>
+      </tr>
+    <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://media-exp1.licdn.com/dms/image/C4E03AQEeqxYa2icWOw/profile-displayphoto-shrink_800_800/0/1516338415629?e=1669248000&v=beta&t=n-DZqd_UtaKtJyQ8UTNgEb7_U4ayJ7Xx8VYDZp2dPgc" />
+            <p><b>Jeremy Bruestle</b></p>
+        </td>
+        <td>
+        </td>
+      </tr>
+        <tr>
+        <td><img style="display:block;" width="100%" height="100%" src=
+                 "https://media-exp1.licdn.com/dms/image/C5603AQFazwyZe-S9lg/profile-displayphoto-shrink_800_800/0/1530393128190?e=1669248000&v=beta&t=cvlLclRc5l3e7Fx4pqjyQigOigkCPtBZahS4kYw0ShY" />
+            <p><b>Daniel Lubarov</b></p>
+        </td>
+        <td>
         </td>
       </tr>
       <tr>
