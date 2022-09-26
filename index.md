@@ -18,9 +18,28 @@ The Zero-Knowledge Proof Workshop, affiliated with the [Crypto Economics Securit
 We encourage submissions of contributed talks related to zero-knowledge proofs and their applications in blockchain and web3. Please submit the information of your talk via this [form](https://forms.gle/KzsErhMkG71Gjtrm9). The submission deadline is Oct. 10th. 
 
 ## Organizing Committee
-- Sanjam Garg (UC Berkeley)
-- Dawn Song (UC Berkeley)
-- Yupeng Zhang (Texas A&M University)
+
+<table style="table-layout: fixed; font-size: 88%; align: middle;">
+  <thead>
+    <tr>
+      <th style="width: 40%;"><img style="object-fit:cover" width="150" height="200" src="https://people.eecs.berkeley.edu/~sanjamg/images/profile.png" alt="Sanjam Garg" /></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width="150" height="200" src="https://web3-startups.org/assets/dawn-berkeley.jpg" alt="Dawn Song" /></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width="150" height="200" src="http://people.tamu.edu/~zhangyp/photo.jpeg" alt="Yupeng Zhang" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://people.eecs.berkeley.edu/~sanjamg/">Sanjam Garg</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+      <td><a href="http://people.tamu.edu/~zhangyp/">Yupeng Zhang</a></td>
+    </tr>
+    <tr>
+      <td>UC Berkeley</td>
+      <td>UC Berkeley</td>
+      <td>Texas A&M</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Schedule
 
