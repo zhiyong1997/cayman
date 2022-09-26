@@ -22,9 +22,9 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
 <table style="table-layout: fixed; font-size: 88%; align: middle;">
   <thead>
     <tr>
-      <th style="width: 40%;"><img style="object-fit:cover" width="150" height="200" src="https://people.eecs.berkeley.edu/~sanjamg/images/profile.png" alt="Sanjam Garg" /></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width="150" height="200" src="https://web3-startups.org/assets/dawn-berkeley.jpg" alt="Dawn Song" /></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width="150" height="200" src="http://people.tamu.edu/~zhangyp/photo.jpeg" alt="Yupeng Zhang" /></th>
+      <th style="width: 33%;"><img style="object-fit:cover" width="150" height="200" src="https://people.eecs.berkeley.edu/~sanjamg/images/profile.png" alt="Sanjam Garg" /></th>
+      <th style="width: 33%;"><img style="object-fit:cover" width="150" height="200" src="https://web3-startups.org/assets/dawn-berkeley.jpg" alt="Dawn Song" /></th>
+      <th style="width: 34%;"><img style="object-fit:cover" width="150" height="200" src="http://people.tamu.edu/~zhangyp/photo.jpeg" alt="Yupeng Zhang" /></th>
     </tr>
   </thead>
   <tbody>
