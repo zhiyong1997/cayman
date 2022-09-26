@@ -166,10 +166,11 @@ Jordi is also a well-respected auditor, most notably leading teams to audit the 
       </tr>
        <tr>
         <td><img style="display:block;" width="100%" height="100%" src=
-                 "https://media-exp1.licdn.com/dms/image/C5603AQFazwyZe-S9lg/profile-displayphoto-shrink_800_800/0/1530393128190?e=1669248000&v=beta&t=cvlLclRc5l3e7Fx4pqjyQigOigkCPtBZahS4kYw0ShY" />
+                 "https://media-exp1.licdn.com/dms/image/C5603AQFazwyZe-S9lg/profile-displayphoto-shrink_800_800/0/1530393128190?e=1669852800&v=beta&t=5bIzNLfHop9v6yJUZIkNvDW7CE0XZvGjKbuSkHGEsR8" />
             <p><b>Daniel Lubarov</b></p>
         </td>
         <td>
+          Daniel Lubarov is a co-founder of Mir, now Polygon Zero, and one of the authors of Plonky2.
         </td>
       </tr>
     <tr>
@@ -178,6 +179,7 @@ Jordi is also a well-respected auditor, most notably leading teams to audit the 
             <p><b>Jeremy Bruestle</b></p>
         </td>
         <td>
+          Jeremy Bruestle is the Chief Scientific Officer of Risc Zero, a company building open-source, zero-knowledge virtual machine that lets people build trustless, verifiable software in their favorite languages.
         </td>
       </tr>
     <tr>
@@ -195,6 +197,7 @@ Jordi is also a well-respected auditor, most notably leading teams to audit the 
             <p><b>Abhishek Jain</b></p>
         </td>
         <td>
+          Abhishek Jain is an asociate professor at Johns Hopkins University. He is broadly interested in cryptography, computer security and privacy and related topics in theoretical computer science. His recent work focuses on problems involving computations on private data and their integrity, specially in the context of new technologies such as blockchains. Before joining Johns Hopkins, he was a postdoctoral researcher at MIT and Boston University, and a consulting researcher at Microsoft Research New England. He obtained his PhD from the University of California, Los Angeles in 2012, where he was the recipient of the Symantec outstanding graduate student award.
         </td>
       </tr>    
     <tr>
