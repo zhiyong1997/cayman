@@ -12,7 +12,7 @@ The Zero-Knowledge Proof Workshop, affiliated with the [Crypto Economics Securit
 
 ## Registration
 
-<button name="button" style="background:#FFA500;border-color: #FFA500;color:white;font-weight:bold;" onclick="window.location.href='https://www.eventbrite.com/e/crypto-economics-security-conference-cesc-tickets-374418404527';"> Registration is now open (select ZKP workshop on CESC registration)</button>
+<button name="button" style="background:#FFA500;border-color: #FFA500;color:white;font-weight:bold;" onclick="window.location.href='https://www.eventbrite.com/e/crypto-economics-security-conference-cesc-tickets-374418404527';"> Register to attend in person or online (select ZKP workshop on CESC registration)</button>
 
 ## Call for Contributed Talks
 We encourage submissions of contributed talks related to zero-knowledge proofs and their applications in blockchain and web3. Please submit the information of your talk via this [form](https://forms.gle/KzsErhMkG71Gjtrm9). The submission deadline is Oct. 10th. 
