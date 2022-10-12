@@ -51,133 +51,151 @@ The schedule will be announced soon.
   <thead>
     <tr>
       <th style="width: 20%;"> Date </th>
-      <th style="width: 60%;"> Topic </th>
-      <th style="width: 20%;"> Speaker </th>
+      <th style="width: 80%;"> Topic </th>
     </tr>
   </thead>
 
   <tbody>
       <tr>
         <td>9:20 am-9:30 am   </td>
-        <td>Opening Remarks </td>
-        <td>Dawn Song & Sanjam Garg </td>
+        <td>  <b>Opening Remarks</b><br>
+              Dawn Song (UC Berkeley) & Sanjam Garg (UC Berkeley)
+        </td>
       </tr>
       <tr>
-          <td align="center" colspan="3"><b>Session I: Overview of Recent Advancement in ZKP</b></td>
+          <td align="center" colspan="2"><b>Session I: Overview of Recent Advancement in ZKP</b></td>
       </tr>
       <tr>
         <td>9:30-10:10am   </td>
-        <td>Tutorial on recent development of ZKP systems </td>
-        <td>Yupeng Zhang</td>
+        <td><b> Tutorial on recent development of ZKP systems</b><br>
+          Yupeng Zhang (Texas A&M University)
+        </td>
       </tr>
       <tr>
         <td>10:10-10:50am   </td>
-        <td>Recent developments and advanced topics in ZK proof systems  </td>
-        <td>Dan Boneh </td>
+        <td><b>Recent developments and advanced topics in ZK proof systems</b>  <br>
+            Dan Boneh (Stanford University)
+        </td>
       </tr>
       <tr>
-          <td align="center" colspan="3"><b>Break (10:50-11:05am)</b></td>
+          <td align="center" colspan="2"><b>Break (10:50-11:05am)</b></td>
       </tr>
       <tr>
         <td>11:05-11:25am  </td>
-        <td>Recent theoretical advancements of ZKP </td>
-        <td>Abhishek Jain </td>
+        <td><b>Recent theoretical advancements of ZKP</b><br> 
+          Abhishek Jain(Johns Hopkins University)
+        </td>
       </tr>
       <tr>
         <td>11:25-11:55am   </td>
         <td>
-        Contributed talks: (6mins each) <br>
-        Yinuo Zhang, Succinct Zero Knowledge for Floating Point Computations <br>
-        Jiaheng Zhang, distributed ZKP <br>
-        Tiancheng Xie, zkBridge <br>
-        Marek Olszewski, Flying with Plumo - Using Celo's zk-SNARK based light client <br>
-        Deevashwer Rathee, Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi <br>
-        Leo Fan, Cysic: Hardware Accelerating Zero-Knowledge Proofs <br>
+        <b>Contributed talks: (6mins each)</b> <br>
+          <b>1. Succinct Zero Knowledge for Floating Point Computations </b> <br>
+          Yinuo Zhang (UC Berkeley) <br><br>
+          <b>2. Distributed ZKP</b> <br>
+          Jiaheng Zhang (UC Berkeley) <br><br>
+          <b>3. ZkBridge</b><br>
+          Tiancheng Xie (UC Berkeley) <br><br>
+          <b>4. Flying with Plumo - Using Celo's zk-SNARK based light client</b><br>
+          Marek Olszewski (Celo) <br><br>
+          <b>5. Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi </b><br>
+          Deevashwer Rathee (UC Berkeley)<br><br>
+          <b>6. Cysic: Hardware Accelerating Zero-Knowledge Proofs</b> <br>
+          Leo Fan (Cysic)
       </td>
-        <td> </td>
       </tr>
       <tr>
-          <td align="center" colspan="3"><b>LUNCH BREAK (12:00-1:00 pm)</b></td>
+          <td align="center" colspan="2"><b>LUNCH BREAK (12:00-1:00 pm)</b></td>
       </tr>
       <tr>
-          <td align="center" colspan="3"><b> Session II: State-of-the-art ZKP Frameworks </b></td>
+          <td align="center" colspan="2"><b> Session II: State-of-the-art ZKP Frameworks </b></td>
       </tr>  
       <tr>
         <td>1:00 -1:20pm </td>
-        <td>Polygon zkEVM</td>
-        <td>Jordi Baylina</td>
+        <td><b>Polygon zkEVM</b><br>
+          Jordi Baylina (Polygon Hermez zkEVM)
+        </td>
       </tr>
       <tr>
         <td>1:20-1:40pm  </td>
-        <td>Polygon Zero </td>
-        <td>Daniel Lubarov </td>
+        <td><b>Polygon Zero</b> <br>
+            Daniel Lubarov (Mir Protocol)
+        </td>
       </tr> 
       <tr>
         <td>1:40-2:00pm </td>
-        <td>Scroll zkEVM</td>
-        <td>Ye Zhang </td>
+        <td><b>Scroll zkEVM</b><br>
+          Ye Zhang (Scroll)
+        </td>
       </tr>
         <tr>
-          <td align="center" colspan="3"><b> Break (2:00-2:15pm) </b></td>
+          <td align="center" colspan="2"><b> Break (2:00-2:15pm) </b></td>
       </tr>  
       <tr>
-        <td>3:00 pm - 3:30 pm </td>
-        <td>Hardening ZK Circuits with Formal Methods</td>
-        <td>Yu Feng, Veridise </td>
-      </tr>
-      <tr>
-        <td align="center" colspan="3"><b>BREAK (3:30-3:45 pm)</b> </td>
-      </tr>
-      <tr>
-        <td align="center" colspan="3"><b> Session III: State-of-the-art ZKP Frameworks</b> </td>
+        <td align="center" colspan="2"><b> Session III: State-of-the-art ZKP Frameworks</b> </td>
       </tr>
       <tr>
         <td>2:15-2:35pm </td>
-        <td>Aleo</td>
-        <td>Howard Wu </td>
+        <td><b>Aleo</b><br>
+          Howard Wu (Aleo)
+        </td>
       </tr>
       <tr>
         <td>2:35-2:55pm </td>
-        <td>Risc0 </td>
-        <td>Jeremy Bruestle </td>
+        <td><b>Risc0 </b><br>
+          Jeremy Bruestle (Risc0)
+        </td>
       </tr>
       <tr>
         <td>2:55-3:15pm </td>
-        <td>Arkworks: A Rust Ecosystem for Programming zkSNARKs </td>
-        <td>Pratyush Mishra </td>
+        <td><b>Arkworks: A Rust Ecosystem for Programming zkSNARKs </b><br>
+          Pratyush Mishra (Aleo)
+        </td>
       </tr>
       <tr>
-        <td align="center" colspan="3"><b>BREAK (3:15-3:30pm)</b> </td>
+        <td align="center" colspan="2"><b>BREAK (3:15-3:30pm)</b> </td>
       </tr>
       <tr>
-        <td align="center" colspan="3"><b>Session IV: Other ZKP topics</b> </td>
+        <td align="center" colspan="2"><b>Session IV: Other ZKP topics</b> </td>
       </tr>
       <tr>
-        <td>3:30-3:50pm </td>
-        <td>Hardening ZK Circuits with Formal Methods </td>
-        <td>Yu Feng, UCSB and Veridise </td>
+        <td>3:30 pm - 3:50 pm </td>
+        <td><b>Hardening ZK Circuits with Formal Methods</b><br>
+          Yu Feng (UCSB & Veridise) 
+        </td>
       </tr>
       <tr>
         <td>3:50-4:10pm </td>
-        <td>ZKP and Law </td>
-        <td>Shafi Goldwasser </td>
+        <td><b>ZKP and Law</b> <br> 
+          Shafi Goldwasser (UC Berkeley)
+        </td>
       </tr>
       <tr>
-        <td align="center" colspan="3"><b>Session V: contributed talks and demos</b> </td>
+        <td align="center" colspan="2"><b>Session V: contributed talks and demos</b> </td>
       </tr>
       <tr>
         <td>4:10-5:05pm </td>
-        <td>contributed talks (6mins each)
-          Bobbin Threadbare, Design considerations for building ZK Virtual Machines
-          Binyi Chen, Hyperplonk: Plonk(up) with fast prover and high degree gates
-          Shumo Chu, Poseidon VM: A zkApp friendly blockchain virtual machine with EVM Compatibility
-          Boyuan Feng, Accelerating MSM Operations on Web Assembly
-          Uma Roy, Proof of Consensus
-          Wei Dai, On Defining Security of Privacy-Preserving Payment System
-          Brandon H. Gomes, OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers
-          Shawn Dimantha, Investment DAOs to Support ZKP Builders
+        <td><b>Contributed talks (6mins each)</b><br>
+          <b>Design considerations for building ZK Virtual Machines </b><br>
+          Bobbin Threadbare (Polygon Miden) <br><br>
+          <b>Hyperplonk: Plonk(up) with fast prover and high degree gates</b><br>
+          Binyi Chen (Espresso Systems) <br><br>
+          <b>Poseidon VM: A zkApp friendly blockchain virtual machine with EVM Compatibility</b><br>
+          Shumo Chu (p0xeidon labs) <br><br>
+          <b>Accelerating MSM Operations on Web Assembly</b><br>
+          Boyuan Feng (Manta Network) <br><br>
+          <b>Proof of Consensus</b>
+          Uma Roy (Succinct Labs) <br><br>
+          <b>On Defining Security of Privacy-Preserving Payment System</b><br>
+          Wei Dai (Bain Capital Crypto) <br><br>
+          <b> OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers</b><br>
+          Brandon H. Gomes (P0xeidon labs) <br><br>
+          <b>Investment DAOs to Support ZKP Builders</b><br>
+          Shawn Dimantha (Hydra Ventures DAO) <br><br>
        </td>
-        <td> </td>
+        <tr>
+        <td align="center" colspan="2"><b>Reception (5:05 pm)</b> </td>
+      </tr>
       </tr>
     </tbody>
 </table>
