@@ -157,7 +157,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         <td>BREAK </td>
       </tr>
       <tr>
-        <td align="center" colspan="2"><b>Session IV: Other ZKP topics</b> </td>
+        <td align="center" colspan="2"><b>Session IV: Other ZKP Topics</b> </td>
       </tr>
       <tr>
         <td>3:30-3:50 pm </td>
