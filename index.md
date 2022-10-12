@@ -60,7 +60,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         </td>
       </tr>
       <tr>
-          <td align="center" colspan="2"><b>Session I: Overview of Recent Advancement in ZKP</b></td>
+          <td align="center" colspan="2"><b><p style="color:#157878;">Session I: Overview of Recent Advancement in ZKP</p></b></td>
       </tr>
       <tr>
         <td>9:30-10:10am   </td>
@@ -107,7 +107,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         <td> LUNCH BREAK </td>
       </tr>
       <tr>
-          <td align="center" colspan="2"><b> Session II: State-of-the-art ZKP Frameworks </b></td>
+          <td align="center" colspan="2"><b><p style="color:#157878;"> Session II: State-of-the-art ZKP Frameworks </p></b></td>
       </tr>  
       <tr>
         <td>1:00-1:20pm </td>
@@ -132,7 +132,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
          <td> BREAK </td>
       </tr>  
       <tr>
-        <td align="center" colspan="2"><b> Session III: State-of-the-art ZKP Frameworks</b> </td>
+        <td align="center" colspan="2"><p style="color:#157878;"><b> Session III: State-of-the-art ZKP Frameworks</b><p style="color:#157878;"> </td>
       </tr>
       <tr>
         <td>2:15-2:35pm </td>
@@ -157,7 +157,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         <td>BREAK </td>
       </tr>
       <tr>
-        <td align="center" colspan="2"><b>Session IV: Other ZKP Topics</b> </td>
+        <td align="center" colspan="2"><p style="color:#157878;"><b>Session IV: Other ZKP Topics</b><p style="color:#157878;"> </td>
       </tr>
       <tr>
         <td>3:30-3:50 pm </td>
