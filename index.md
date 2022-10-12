@@ -78,7 +78,7 @@ The schedule will be announced soon.
         </td>
       </tr>
       <tr>
-          <td align="center" colspan="2"><b>BREAK (10:50-11:05am)</b></td>
+          <td align="center" colspan="2">BREAK (10:50-11:05am)</td>
       </tr>
       <tr>
         <td>11:05-11:25am  </td>
@@ -105,7 +105,7 @@ The schedule will be announced soon.
       </td>
       </tr>
       <tr>
-          <td align="center" colspan="2"><b>LUNCH BREAK (12:00-1:00 pm)</b></td>
+          <td align="center" colspan="2">LUNCH BREAK (12:00-1:00 pm)</td>
       </tr>
       <tr>
           <td align="center" colspan="2"><b> Session II: State-of-the-art ZKP Frameworks </b></td>
@@ -129,7 +129,7 @@ The schedule will be announced soon.
         </td>
       </tr>
         <tr>
-          <td align="center" colspan="2"><b> BREAK (2:00-2:15pm) </b></td>
+          <td align="center" colspan="2"> BREAK (2:00-2:15pm)</td>
       </tr>  
       <tr>
         <td align="center" colspan="2"><b> Session III: State-of-the-art ZKP Frameworks</b> </td>
@@ -153,7 +153,7 @@ The schedule will be announced soon.
         </td>
       </tr>
       <tr>
-        <td align="center" colspan="2"><b>BREAK (3:15-3:30pm)</b> </td>
+        <td align="center" colspan="2">BREAK (3:15-3:30pm) </td>
       </tr>
       <tr>
         <td align="center" colspan="2"><b>Session IV: Other ZKP topics</b> </td>
