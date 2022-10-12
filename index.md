@@ -132,7 +132,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
          <td> BREAK </td>
       </tr>  
       <tr>
-        <td align="center" colspan="2"><p style="color:#157878;"><b> Session III: State-of-the-art ZKP Frameworks</b><p style="color:#157878;"> </td>
+        <td align="center" colspan="2"><p style="color:#157878;"><b> Session III: State-of-the-art ZKP Frameworks</b></p> </td>
       </tr>
       <tr>
         <td>2:15-2:35pm </td>
