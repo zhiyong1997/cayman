@@ -55,7 +55,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
   <tbody>
       <tr>
         <td>9:20-9:30 am   </td>
-        <td>  Opening Remarks<br>
+        <td>  <b>Opening Remarks</b><br>
               <i>Dawn Song (UC Berkeley) & Sanjam Garg (UC Berkeley)</i>
         </td>
       </tr>
@@ -64,13 +64,13 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>
       <tr>
         <td>9:30-10:10am   </td>
-        <td>Tutorial on recent development of ZKP systems<br>
+        <td><b>Tutorial on recent development of ZKP systems</b><br>
           <i>Yupeng Zhang (Texas A&M University)</i>
         </td>
       </tr>
       <tr>
         <td>10:10-10:50am   </td>
-        <td>Recent developments and advanced topics in ZK proof systems <br>
+        <td><b>Recent developments and advanced topics in ZK proof systems</b> <br>
             <i>Dan Boneh (Stanford University)</i>
         </td>
       </tr>
@@ -80,7 +80,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>
       <tr>
         <td>11:05-11:25am  </td>
-        <td>Recent theoretical advancements of ZKP<br> 
+        <td><b>Recent theoretical advancements of ZKP</b><br> 
           <i>Abhishek Jain(Johns Hopkins University)</i>
         </td>
       </tr>
@@ -88,17 +88,17 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         <td>11:25-11:55am   </td>
         <td>
         Contributed talks(6mins each): <br>
-          1. Succinct Zero Knowledge for Floating Point Computations <br>
+          1. <b>Succinct Zero Knowledge for Floating Point Computations</b> <br>
           <i> Yinuo Zhang (UC Berkeley) </i><br><br>
-          2. Distributed ZKP <br>
+          2. <b>Distributed ZKP </b><br>
           <i>Jiaheng Zhang (UC Berkeley) </i><br><br>
-          3. ZkBridge<br>
+          3.<b> ZkBridge</b><br>
           <i>Tiancheng Xie (UC Berkeley) </i><br><br>
-          4. Flying with Plumo - Using Celo's zk-SNARK based light client<br>
+          4.<b> Flying with Plumo - Using Celo's zk-SNARK based light client</b><br>
           <i>Marek Olszewski (Celo)</i> <br><br>
-          5. Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi<br>
+          5. <b>Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi</b><br>
           <i>Deevashwer Rathee (UC Berkeley)</i><br><br>
-          6. Cysic: Hardware Accelerating Zero-Knowledge Proofs <br>
+          6. <b>Cysic: Hardware Accelerating Zero-Knowledge Proofs</b> <br>
           <i>Leo Fan (Cysic) </i>
       </td>
       </tr>
@@ -111,19 +111,19 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>  
       <tr>
         <td>1:00-1:20pm </td>
-        <td>Polygon zkEVM<br>
+        <td><b>Polygon zkEVM</b><br>
           <i>Jordi Baylina (Polygon Hermez zkEVM)</i>
         </td>
       </tr>
       <tr>
         <td>1:20-1:40pm  </td>
-        <td>Polygon Zero <br>
+        <td><b>Polygon Zero</b> <br>
           <i>Daniel Lubarov (Mir Protocol)</i>
         </td>
       </tr> 
       <tr>
         <td>1:40-2:00pm </td>
-        <td>Scroll zkEVM<br>
+        <td><b>Scroll zkEVM</b><br>
           <i>Ye Zhang (Scroll)</i>
         </td>
       </tr>
@@ -136,19 +136,19 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>
       <tr>
         <td>2:15-2:35pm </td>
-        <td>Aleo<br>
+        <td><b>Aleo</b><br>
           <i>Howard Wu (Aleo)</i>
         </td>
       </tr>
       <tr>
         <td>2:35-2:55pm </td>
-        <td>Risc0<br>
+        <td><b>Risc0</b><br>
           <i>Jeremy Bruestle (Risc0) </i>
         </td>
       </tr>
       <tr>
         <td>2:55-3:15pm </td>
-        <td>Arkworks: A Rust Ecosystem for Programming zkSNARKs<br>
+        <td><b>Arkworks: A Rust Ecosystem for Programming zkSNARKs</b><br>
           <i>Pratyush Mishra (Aleo)</i>
         </td>
       </tr>
@@ -157,46 +157,46 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         <td>BREAK </td>
       </tr>
       <tr>
-        <td align="center" colspan="2"><p style="color:#157878;"><b>Session IV: Other ZKP Topics</b><p style="color:#157878;"> </td>
+        <td align="center" colspan="2"><p style="color:#157878;"><b>Session IV: Other ZKP Topics</b></p> </td>
       </tr>
       <tr>
         <td>3:30-3:50 pm </td>
-        <td>Hardening ZK Circuits with Formal Methods<br>
+        <td><b>Hardening ZK Circuits with Formal Methods</b><br>
           <i>Yu Feng (UCSB) </i>
         </td>
       </tr>
       <tr>
         <td>3:50-4:10pm </td>
-        <td>ZKP and Law<br> 
+        <td><b>ZKP and Law</b><br> 
           <i>Shafi Goldwasser (UC Berkeley)</i>
         </td>
       </tr>
       <tr>
-        <td align="center" colspan="2"><b>Session V: Contributed Talks and Demos</b> </td>
+        <td align="center" colspan="2"><p style="color:#157878;"><b>Session V: Contributed Talks and Demos</b></p> </td>
       </tr>
       <tr>
         <td>4:10-5:05pm </td>
         <td>Contributed talks (6mins each):<br>
-          1. Design considerations for building ZK Virtual Machines<br>
+          1. <b>Design considerations for building ZK Virtual Machines</b><br>
           <i>Bobbin Threadbare (Polygon Miden)</i> <br><br>
-          2. Hyperplonk: Plonk(up) with fast prover and high degree gates<br>
+          2. <b>Hyperplonk: Plonk(up) with fast prover and high degree gates</b><br>
           <i>Binyi Chen (Espresso Systems) </i><br><br>
-          3. Poseidon VM: A zkApp friendly blockchain virtual machine with EVM Compatibility<br>
+          3. <b>Poseidon VM: A zkApp friendly blockchain virtual machine with EVM Compatibility</b><br>
           <i>Shumo Chu (p0xeidon labs)</i> <br><br>
-          4. Accelerating MSM Operations on Web Assembly<br>
+          4. <b>Accelerating MSM Operations on Web Assembly</b><br>
           <i>Boyuan Feng (Manta Network) </i><br><br>
-          5. Proof of Consensus<br>
+          5. <b>Proof of Consensus</b><br>
           <i>Uma Roy (Succinct Labs) </i> <br><br>
-          6. On Defining Security of Privacy-Preserving Payment System<br>
+          6. <b>On Defining Security of Privacy-Preserving Payment System</b><br>
           <i>Wei Dai (Bain Capital Crypto) </i> <br><br>
-          7. OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers<br>
+          7. <b>OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers</b><br>
           <i>Brandon H. Gomes (P0xeidon labs) </i> <br><br>
-          8. Investment DAOs to Support ZKP Builders<br>
+          8. <b>Investment DAOs to Support ZKP Builders</b><br>
           <i>Shawn Dimantha (Hydra Ventures DAO) </i> <br><br>
        </td>
        </tr>
         <tr>
-        <td align="center" colspan="2"><b>Reception (5:05 pm)</b> </td>
+        <td align="center" colspan="2"><p style="color:#157878;"><b>Reception (5:05 pm)</b></p> </td>
       </tr>
     </tbody>
 </table>
