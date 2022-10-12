@@ -52,7 +52,6 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       <th style="width: 80%;"> Topic </th>
     </tr>
   </thead>
-
   <tbody>
       <tr>
         <td>9:20-9:30 am   </td>
@@ -205,7 +204,6 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       <th style="width: 70%;"> Brief Bio </th>
     </tr>
   </thead>
-  
   <tbody>
       <tr>
         <td><img style="display:block;" width="100%" height="100%" src=
