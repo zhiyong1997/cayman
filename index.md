@@ -45,8 +45,6 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
 
 The workshop will include tutorials of zero-knowledge proof techniques, advanced talks from invited speakers and demos from leading tools. 
 
-The schedule will be announced soon.
-
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -68,7 +66,7 @@ The schedule will be announced soon.
       <tr>
         <td>9:30-10:10am   </td>
         <td>Tutorial on recent development of ZKP systems<br>
-          </i>Yupeng Zhang (Texas A&M University)</i>
+          <i>Yupeng Zhang (Texas A&M University)</i>
         </td>
       </tr>
       <tr>
@@ -195,7 +193,6 @@ The schedule will be announced soon.
        </td>
         <tr>
         <td align="center" colspan="2"><b>Reception (5:05 pm)</b> </td>
-      </tr>
       </tr>
     </tbody>
 </table>
