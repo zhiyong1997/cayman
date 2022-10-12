@@ -111,19 +111,19 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>  
       <tr>
         <td class="schedule">1:00pm </td>
-        <td class="schedule"><b>Polygon zkEVM</b><br>
+        <td class="schedule"><b>Tooling to build a zkEVM</b><br>
           <i>Jordi Baylina (Polygon Hermez zkEVM)</i>
         </td>
       </tr>
       <tr>
         <td class="schedule">1:20pm  </td>
-        <td class="schedule"><b>Polygon Zero</b> <br>
+        <td class="schedule"><b>Bignum algorithms for ZKPs</b> <br>
           <i>Daniel Lubarov (Polygon Zero)</i>
         </td>
       </tr> 
       <tr>
         <td class="schedule">1:40pm </td>
-        <td class="schedule"><b>Scroll zkEVM</b><br>
+        <td class="schedule"><b>zkEVM design, performance and challenges</b><br>
           <i>Ye Zhang (Scroll)</i>
         </td>
       </tr>
@@ -136,7 +136,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>
       <tr>
         <td class="schedule">2:15pm </td>
-        <td class="schedule"><b>Aleo</b><br>
+        <td class="schedule"><b>Demystifying Zero-Knowledge Programming</b><br>
           <i>Howard Wu (Aleo)</i>
         </td>
       </tr>
