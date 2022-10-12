@@ -50,7 +50,7 @@ The schedule will be announced soon.
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;"> Date </th>
+      <th style="width: 20%;"> Time </th>
       <th style="width: 80%;"> Topic </th>
     </tr>
   </thead>
