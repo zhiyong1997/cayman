@@ -48,13 +48,13 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;color:#157878;"> Time </th>
-      <th style="width: 80%;color:#157878;"> Topic </th>
+      <th style="width: 15%;color:#157878;"> Time </th>
+      <th style="width: 85%;color:#157878;"> Topic </th>
     </tr>
   </thead>
   <tbody>
       <tr>
-        <td>9:20-9:30 am   </td>
+        <td>9:20am   </td>
         <td>  <b>Opening Remarks</b><br>
               <i>Dawn Song (UC Berkeley) & Sanjam Garg (UC Berkeley)</i>
         </td>
@@ -63,31 +63,31 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
           <td align="center" colspan="2"><b><p style="color:#157878;">Session I: Overview of Recent Advancement in ZKP</p></b></td>
       </tr>
       <tr>
-        <td>9:30-10:10am   </td>
+        <td>9:30am   </td>
         <td><b>Tutorial on recent development of ZKP systems</b><br>
           <i>Yupeng Zhang (Texas A&M University)</i>
         </td>
       </tr>
       <tr>
-        <td>10:10-10:50am   </td>
+        <td>10:10am   </td>
         <td><b>Recent developments and advanced topics in ZK proof systems</b> <br>
             <i>Dan Boneh (Stanford University)</i>
         </td>
       </tr>
       <tr>
-        <td>10:50-11:05am  </td>
+        <td>10:50am  </td>
         <td>BREAK</td>
       </tr>
       <tr>
-        <td>11:05-11:25am  </td>
+        <td>11:05am  </td>
         <td><b>Recent theoretical advancements of ZKP</b><br> 
           <i>Abhishek Jain(Johns Hopkins University)</i>
         </td>
       </tr>
       <tr>
-        <td>11:25-11:55am   </td>
+        <td>11:25am   </td>
         <td>
-        Contributed talks(6mins each): <br>
+        Contributed talks: <br>
           1. <b>Succinct Zero Knowledge for Floating Point Computations</b> <br>
           <i> Yinuo Zhang (UC Berkeley) </i><br>
           2. <b>Distributed ZKP </b><br>
@@ -103,70 +103,70 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </td>
       </tr>
       <tr>
-        <td> 12:00-1:00pm </td>
+        <td> 12:00pm </td>
         <td> LUNCH BREAK </td>
       </tr>
       <tr>
           <td align="center" colspan="2"><b><p style="color:#157878;"> Session II: State-of-the-art ZKP Frameworks </p></b></td>
       </tr>  
       <tr>
-        <td>1:00-1:20pm </td>
+        <td>1:00pm </td>
         <td><b>Polygon zkEVM</b><br>
           <i>Jordi Baylina (Polygon Hermez zkEVM)</i>
         </td>
       </tr>
       <tr>
-        <td>1:20-1:40pm  </td>
+        <td>1:20pm  </td>
         <td><b>Polygon Zero</b> <br>
-          <i>Daniel Lubarov (Mir Protocol)</i>
+          <i>Daniel Lubarov (Polygon Zero)</i>
         </td>
       </tr> 
       <tr>
-        <td>1:40-2:00pm </td>
+        <td>1:40pm </td>
         <td><b>Scroll zkEVM</b><br>
           <i>Ye Zhang (Scroll)</i>
         </td>
       </tr>
        <tr>
-          <td>2:00-2:15pm</td>
+          <td>2:00pm</td>
          <td> BREAK </td>
       </tr>  
       <tr>
         <td align="center" colspan="2"><p style="color:#157878;"><b> Session III: State-of-the-art ZKP Frameworks</b></p> </td>
       </tr>
       <tr>
-        <td>2:15-2:35pm </td>
+        <td>2:15pm </td>
         <td><b>Aleo</b><br>
           <i>Howard Wu (Aleo)</i>
         </td>
       </tr>
       <tr>
-        <td>2:35-2:55pm </td>
+        <td>2:35pm </td>
         <td><b>Risc0</b><br>
           <i>Jeremy Bruestle (Risc0) </i>
         </td>
       </tr>
       <tr>
-        <td>2:55-3:15pm </td>
+        <td>2:55pm </td>
         <td><b>Arkworks: A Rust Ecosystem for Programming zkSNARKs</b><br>
-          <i>Pratyush Mishra (Aleo)</i>
+          <i>Pratyush Mishra (University of Pennsylvania)</i>
         </td>
       </tr>
       <tr>
-        <td>3:15-3:30pm </td>
+        <td>3:15pm </td>
         <td>BREAK </td>
       </tr>
       <tr>
         <td align="center" colspan="2"><p style="color:#157878;"><b>Session IV: Other ZKP Topics</b></p> </td>
       </tr>
       <tr>
-        <td>3:30-3:50 pm </td>
+        <td>3:30pm </td>
         <td><b>Hardening ZK Circuits with Formal Methods</b><br>
           <i>Yu Feng (UCSB) </i>
         </td>
       </tr>
       <tr>
-        <td>3:50-4:10pm </td>
+        <td>3:50pm </td>
         <td><b>ZKP and Law</b><br> 
           <i>Shafi Goldwasser (UC Berkeley)</i>
         </td>
@@ -175,8 +175,8 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         <td align="center" colspan="2"><p style="color:#157878;"><b>Session V: Contributed Talks and Demos</b></p> </td>
       </tr>
       <tr>
-        <td>4:10-5:05pm </td>
-        <td>Contributed talks (6mins each):<br>
+        <td>4:10pm </td>
+        <td>Contributed talks:<br>
           1. <b>Design considerations for building ZK Virtual Machines</b><br>
           <i>Bobbin Threadbare (Polygon Miden)</i> <br>
           2. <b>Hyperplonk: Plonk(up) with fast prover and high degree gates</b><br>
