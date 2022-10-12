@@ -57,7 +57,7 @@ The schedule will be announced soon.
 
   <tbody>
       <tr>
-        <td>9:20 am-9:30 am   </td>
+        <td>9:20-9:30 am   </td>
         <td>  <b>Opening Remarks</b><br>
               Dawn Song (UC Berkeley) & Sanjam Garg (UC Berkeley)
         </td>
@@ -78,7 +78,7 @@ The schedule will be announced soon.
         </td>
       </tr>
       <tr>
-          <td align="center" colspan="2"><b>Break (10:50-11:05am)</b></td>
+          <td align="center" colspan="2"><b>BREAK (10:50-11:05am)</b></td>
       </tr>
       <tr>
         <td>11:05-11:25am  </td>
@@ -89,7 +89,7 @@ The schedule will be announced soon.
       <tr>
         <td>11:25-11:55am   </td>
         <td>
-        <b>Contributed talks: (6mins each)</b> <br>
+        <b>Contributed talks(6mins each):</b> <br>
           <b>1. Succinct Zero Knowledge for Floating Point Computations </b> <br>
           Yinuo Zhang (UC Berkeley) <br><br>
           <b>2. Distributed ZKP</b> <br>
@@ -111,7 +111,7 @@ The schedule will be announced soon.
           <td align="center" colspan="2"><b> Session II: State-of-the-art ZKP Frameworks </b></td>
       </tr>  
       <tr>
-        <td>1:00 -1:20pm </td>
+        <td>1:00-1:20pm </td>
         <td><b>Polygon zkEVM</b><br>
           Jordi Baylina (Polygon Hermez zkEVM)
         </td>
@@ -129,7 +129,7 @@ The schedule will be announced soon.
         </td>
       </tr>
         <tr>
-          <td align="center" colspan="2"><b> Break (2:00-2:15pm) </b></td>
+          <td align="center" colspan="2"><b> BREAK (2:00-2:15pm) </b></td>
       </tr>  
       <tr>
         <td align="center" colspan="2"><b> Session III: State-of-the-art ZKP Frameworks</b> </td>
@@ -159,9 +159,9 @@ The schedule will be announced soon.
         <td align="center" colspan="2"><b>Session IV: Other ZKP topics</b> </td>
       </tr>
       <tr>
-        <td>3:30 pm - 3:50 pm </td>
+        <td>3:30-3:50 pm </td>
         <td><b>Hardening ZK Circuits with Formal Methods</b><br>
-          Yu Feng (UCSB & Veridise) 
+          Yu Feng (UCSB) 
         </td>
       </tr>
       <tr>
@@ -171,11 +171,11 @@ The schedule will be announced soon.
         </td>
       </tr>
       <tr>
-        <td align="center" colspan="2"><b>Session V: contributed talks and demos</b> </td>
+        <td align="center" colspan="2"><b>Session V: Contributed Talks and Demos</b> </td>
       </tr>
       <tr>
         <td>4:10-5:05pm </td>
-        <td><b>Contributed talks (6mins each)</b><br>
+        <td><b>Contributed talks (6mins each):</b><br>
           <b>Design considerations for building ZK Virtual Machines </b><br>
           Bobbin Threadbare (Polygon Miden) <br><br>
           <b>Hyperplonk: Plonk(up) with fast prover and high degree gates</b><br>
