@@ -47,8 +47,6 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
 
 The schedule will be announced soon.
 
-<!--
-
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -60,76 +58,129 @@ The schedule will be announced soon.
 
   <tbody>
       <tr>
-        <td>9:00 am-9:20 am   </td>
+        <td>9:20 am-9:30 am   </td>
         <td>Opening Remarks </td>
-        <td>Dawn Song </td>
+        <td>Dawn Song & Sanjam Garg </td>
       </tr>
       <tr>
-          <td align="center" colspan="3"><b>Morning Session(9:20 am - 12 pm)</b></td>
+          <td align="center" colspan="3"><b>Session I: Overview of Recent Advancement in ZKP</b></td>
       </tr>
       <tr>
-        <td>9:20 am-10:10 am   </td>
+        <td>9:30-10:10am   </td>
         <td>Tutorial on recent development of ZKP systems </td>
         <td>Yupeng Zhang</td>
       </tr>
       <tr>
-        <td>10:10 am-11:00 am   </td>
+        <td>10:10-10:50am   </td>
+        <td>Recent developments and advanced topics in ZK proof systems  </td>
+        <td>Dan Boneh </td>
+      </tr>
+      <tr>
+          <td align="center" colspan="3"><b>Break (10:50-11:05am)</b></td>
+      </tr>
+      <tr>
+        <td>11:05-11:25am  </td>
         <td>Recent theoretical advancements of ZKP </td>
-        <td>Abhishek Jain or Sanjam </td>
+        <td>Abhishek Jain </td>
       </tr>
       <tr>
-        <td>11:00 am-11:30 am  </td>
-        <td>Scroll zkEVM </td>
-        <td>Ye Zhang </td>
+        <td>11:25-11:55am   </td>
+        <td>
+        Contributed talks: (6mins each) <br>
+        Yinuo Zhang, Succinct Zero Knowledge for Floating Point Computations <br>
+        Jiaheng Zhang, distributed ZKP <br>
+        Tiancheng Xie, zkBridge <br>
+        Marek Olszewski, Flying with Plumo - Using Celo's zk-SNARK based light client <br>
+        Deevashwer Rathee, Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi <br>
+        Leo Fan, Cysic: Hardware Accelerating Zero-Knowledge Proofs <br>
+      </td>
+        <td> </td>
       </tr>
       <tr>
-        <td>11:30 am-12:00 pm   </td>
-        <td>Arkworks: A Rust Ecosystem for Programming zkSNARKs </td>
-        <td>Pratyush Mishra </td>
+          <td align="center" colspan="3"><b>LUNCH BREAK (12:00-1:00 pm)</b></td>
       </tr>
       <tr>
-          <td align="center" colspan="3"><b>LUNCH BREAK (12:00 pm-1:00 pm)</b></td>
-      </tr>
-      <tr>
-          <td align="center" colspan="3"><b> Afternoon Session (1 pm-5 pm): talks & demos </b></td>
+          <td align="center" colspan="3"><b> Session II: State-of-the-art ZKP Frameworks </b></td>
       </tr>  
       <tr>
-        <td>1:00 pm - 2:00 pm </td>
-        <td>TBD</td>
-        <td>Dan Boneh</td>
+        <td>1:00 -1:20pm </td>
+        <td>Polygon zkEVM</td>
+        <td>Jordi Baylina</td>
       </tr>
       <tr>
-        <td>2:00 pm - 2:30 pm  </td>
-        <td>Aleo </td>
-        <td>Howard Wu </td>
+        <td>1:20-1:40pm  </td>
+        <td>Polygon Zero </td>
+        <td>Daniel Lubarov </td>
       </tr> 
       <tr>
-        <td>2:30 pm - 3:00 pm </td>
-        <td>Polygon zkEVM</td>
-        <td>Jordi Baylina </td>
+        <td>1:40-2:00pm </td>
+        <td>Scroll zkEVM</td>
+        <td>Ye Zhang </td>
       </tr>
+        <tr>
+          <td align="center" colspan="3"><b> Break (2:00-2:15pm) </b></td>
+      </tr>  
       <tr>
         <td>3:00 pm - 3:30 pm </td>
         <td>Hardening ZK Circuits with Formal Methods</td>
         <td>Yu Feng, Veridise </td>
       </tr>
       <tr>
-        <td align="center" colspan="3"><b>BREAK (3:30 pm - 3:45 pm)</b> </td>
+        <td align="center" colspan="3"><b>BREAK (3:30-3:45 pm)</b> </td>
       </tr>
       <tr>
-        <td>3:45 pm-4:15 pm </td>
-        <td>Risc0</td>
+        <td align="center" colspan="3"><b> Session III: State-of-the-art ZKP Frameworks</b> </td>
+      </tr>
+      <tr>
+        <td>2:15-2:35pm </td>
+        <td>Aleo</td>
+        <td>Howard Wu </td>
+      </tr>
+      <tr>
+        <td>2:35-2:55pm </td>
+        <td>Risc0 </td>
         <td>Jeremy Bruestle </td>
       </tr>
       <tr>
-        <td>4:15 pm- 5pm </td>
-        <td>Contributed talks and demos </td>
-        <td>TBD </td>
+        <td>2:55-3:15pm </td>
+        <td>Arkworks: A Rust Ecosystem for Programming zkSNARKs </td>
+        <td>Pratyush Mishra </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3"><b>BREAK (3:15-3:30pm)</b> </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3"><b>Session IV: Other ZKP topics</b> </td>
+      </tr>
+      <tr>
+        <td>3:30-3:50pm </td>
+        <td>Hardening ZK Circuits with Formal Methods </td>
+        <td>Yu Feng, UCSB and Veridise </td>
+      </tr>
+      <tr>
+        <td>3:50-4:10pm </td>
+        <td>ZKP and Law </td>
+        <td>Shafi Goldwasser </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3"><b>Session V: contributed talks and demos</b> </td>
+      </tr>
+      <tr>
+        <td>4:10-5:05pm </td>
+        <td>contributed talks (6mins each)
+          Bobbin Threadbare, Design considerations for building ZK Virtual Machines
+          Binyi Chen, Hyperplonk: Plonk(up) with fast prover and high degree gates
+          Shumo Chu, Poseidon VM: A zkApp friendly blockchain virtual machine with EVM Compatibility
+          Boyuan Feng, Accelerating MSM Operations on Web Assembly
+          Uma Roy, Proof of Consensus
+          Wei Dai, On Defining Security of Privacy-Preserving Payment System
+          Brandon H. Gomes, OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers
+          Shawn Dimantha, Investment DAOs to Support ZKP Builders
+       </td>
+        <td> </td>
       </tr>
     </tbody>
 </table>
-
--->
 
 ## Meet the Invited Speakers
 <table style="table-layout: fixed; font-size: 88%;">
