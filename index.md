@@ -311,11 +311,7 @@ Jordi is also a well-respected auditor, most notably leading teams to audit the 
         <td>
             Yupeng Zhang is an Assistant Professor of Computer Science and Engineering in Texas A&M University. His research is focused on applied cryptography, designing efficient zero-knowledge proof and secure multiparty computation protocols with applications to machine learning and blockchains. He is the recipient of the NSF CAREER Award, Facebook faculty research award and Google fellowship on privacy and security. Before joining Texas A&M, he was a postdoctoral researcher at UC Berkeley working with Prof. Dawn Song, and he obtained his PhD from the University of Maryland advised by Prof. Charalampos Papamanthou and Prof. Jonathan Katz.
         </td>
-      </tr>
-     
-           
-         
-         
+      </tr>     
   </tbody>
 </table>
 
