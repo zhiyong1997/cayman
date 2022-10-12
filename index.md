@@ -85,7 +85,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>
       <tr>
         <td>11:25-11:55am   </td>
-        <td align="left">
+        <td>
         Contributed talks(6mins each): <br>
           1. Succinct Zero Knowledge for Floating Point Computations <br>
           <i> Yinuo Zhang (UC Berkeley) </i><br><br>
@@ -172,7 +172,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
       </tr>
       <tr>
         <td>4:10-5:05pm </td>
-        <td align="left">Contributed talks (6mins each):<br>
+        <td>Contributed talks (6mins each):<br>
           1. Design considerations for building ZK Virtual Machines<br>
           <i>Bobbin Threadbare (Polygon Miden)</i> <br><br>
           2. Hyperplonk: Plonk(up) with fast prover and high degree gates<br>
