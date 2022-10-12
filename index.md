@@ -96,7 +96,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
           4. Flying with Plumo - Using Celo's zk-SNARK based light client<br>
           <i>Marek Olszewski (Celo)</i> <br><br>
           5. Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi<br>
-          <i>Deevashwer Rathee (UC Berkeley)<br><br>
+          <i>Deevashwer Rathee (UC Berkeley)</i><br><br>
           6. Cysic: Hardware Accelerating Zero-Knowledge Proofs <br>
           <i>Leo Fan (Cysic) </i>
       </td>
