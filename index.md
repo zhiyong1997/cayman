@@ -125,7 +125,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
           <i>Ye Zhang (Scroll)</i>
         </td>
       </tr>
-        <tr>
+       <tr>
           <td align="center" colspan="2"> BREAK (2:00-2:15pm)</td>
       </tr>  
       <tr>
@@ -190,6 +190,7 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
           8. Investment DAOs to Support ZKP Builders<br>
           <i>Shawn Dimantha (Hydra Ventures DAO) </i> <br><br>
        </td>
+        </tr>
         <tr>
         <td align="center" colspan="2"><b>Reception (5:05 pm)</b> </td>
       </tr>
