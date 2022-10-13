@@ -90,9 +90,9 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         Contributed talks: <br>
           1. <b>Succinct Zero Knowledge for Floating Point Computations</b> <br>
           <i> Yinuo Zhang (UC Berkeley) </i><br>
-          2. <b>Distributed ZKP </b><br>
+          2. <b>Scalable ZK-Rollups via Fully Distributed Zero-Knowledge Proofs</b><br>
           <i>Jiaheng Zhang (UC Berkeley) </i><br>
-          3.<b> ZkBridge</b><br>
+          3.<b>zkBridge: Trustless Cross-chain Bridges Made Practical</b><br>
           <i>Tiancheng Xie (UC Berkeley) </i><br>
           4.<b> Flying with Plumo - Using Celo's zk-SNARK based light client</b><br>
           <i>Marek Olszewski (Celo)</i> <br>
