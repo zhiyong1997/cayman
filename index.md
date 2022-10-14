@@ -193,6 +193,8 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
           <i>Brandon H. Gomes (P0xeidon labs) </i> <br>
           8. <b>Investment DAOs to Support ZKP Builders</b><br>
           <i>Shawn Dimantha (Hydra Ventures DAO) </i> <br>
+          9. <b>A new Schwartz-Zippel for multilinear polynomials with application to folding schemes</b><br>
+          <i>Ben Fish (Yale)</i>
        </td>
        </tr>
         <tr>
