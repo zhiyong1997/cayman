@@ -90,14 +90,14 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         Contributed talks: <br>
           1. <b>Succinct Zero Knowledge for Floating Point Computations</b> <br>
           <i> Yinuo Zhang (UC Berkeley) </i><br>
-          2. <b>Scalable ZK-Rollups via Fully Distributed Zero-Knowledge Proofs</b><br>
-          <i>Jiaheng Zhang (UC Berkeley) </i><br>
+          2. <b>The Reductions of Knowledge Framework</b><br>
+          <i>Abhiram Kothapalli (CMU) </i><br>
           3.<b>zkBridge: Trustless Cross-chain Bridges Made Practical</b><br>
           <i>Tiancheng Xie (UC Berkeley) </i><br>
           4.<b> Flying with Plumo - Using Celo's zk-SNARK based light client</b><br>
           <i>Marek Olszewski (Celo)</i> <br>
-          5. <b>Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi</b><br>
-          <i>Deevashwer Rathee (UC Berkeley)</i><br>
+          5. <b>A new Schwartz-Zippel for multilinear polynomials with application to folding schemes</b><br>
+          <i>Ben Fish (Yale)</i> <br>
           6. <b>Cysic: Hardware Accelerating Zero-Knowledge Proofs</b> <br>
           <i>Leo Fan (Cysic) </i>
       </td>
@@ -185,20 +185,22 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
           <i>Shumo Chu (p0xeidon labs)</i> <br>
           4. <b>Accelerating MSM Operations on Web Assembly</b><br>
           <i>Boyuan Feng (Manta Network) </i><br>
-          5. <b>Proof of Consensus</b><br>
+          5. <b> Line Point Zero Knowledge </b> <br>
+          <i> Samuel Dittmer (Stealth) </i> <br>
+          6. <b>Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi</b><br>
+          <i>Deevashwer Rathee (UC Berkeley)</i><br>
+          7. <b>Proof of Consensus</b><br>
           <i>Uma Roy (Succinct Labs) </i> <br>
-          6. <b>On Defining Security of Privacy-Preserving Payment System</b><br>
+          8. <b>On Defining Security of Privacy-Preserving Payment System</b><br>
           <i>Wei Dai (Bain Capital Crypto) </i> <br>
-          7. <b>OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers</b><br>
+          9. <b>OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers</b><br>
           <i>Brandon H. Gomes (P0xeidon labs) </i> <br>
-          8. <b>Investment DAOs to Support ZKP Builders</b><br>
-          <i>Shawn Dimantha (Hydra Ventures DAO) </i> <br>
-          9. <b>A new Schwartz-Zippel for multilinear polynomials with application to folding schemes</b><br>
-          <i>Ben Fish (Yale)</i>
+          10. <b>Investment DAOs to Support ZKP Builders</b><br>
+          <i>Shawn Dimantha (Hydra Ventures DAO) </i> <br> 
        </td>
        </tr>
         <tr>
-        <td align="center" colspan="2"><p style="color:#157878;"><b>Reception (5:05 pm)</b></p> </td>
+        <td align="center" colspan="2"><p style="color:#157878;"><b>Reception (5:10 pm)</b></p> </td>
       </tr>
     </tbody>
 </table>
