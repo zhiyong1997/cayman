@@ -43,8 +43,6 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
 
 ## Schedule
 
-The workshop will include tutorials of zero-knowledge proof techniques, advanced talks from invited speakers and demos from leading tools. 
-
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
@@ -179,28 +177,30 @@ The workshop will include tutorials of zero-knowledge proof techniques, advanced
         <td class="schedule">Contributed talks:<br>
           1. <b>Design considerations for building ZK Virtual Machines</b><br>
           <i>Bobbin Threadbare (Polygon Miden)</i> <br>
-          2. <b>Hyperplonk: Plonk(up) with fast prover and high degree gates</b><br>
-          <i>Binyi Chen (Espresso Systems) </i><br>
-          3. <b>Poseidon VM: A zkApp friendly blockchain virtual machine with EVM Compatibility</b><br>
+          2. <b>Poseidon VM: A zkApp friendly blockchain virtual machine with EVM Compatibility</b><br>
           <i>Shumo Chu (p0xeidon labs)</i> <br>
-          4. <b>Accelerating MSM Operations on Web Assembly</b><br>
+          3. <b>Accelerating MSM Operations on Web Assembly</b><br>
           <i>Boyuan Feng (Manta Network) </i><br>
+          4. <b>Scalable ZK-Rollups via Fully Distributed Zero-Knowledge Proofs</b><br>
+          <i>Jiaheng Zhang (UC Berkeley) </i><br> 
           5. <b> Line Point Zero Knowledge </b> <br>
           <i> Samuel Dittmer (Stealth) </i> <br>
-          6. <b>Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi</b><br>
+          6. <b>Hyperplonk: Plonk(up) with fast prover and high degree gates</b><br>
+          <i>Binyi Chen (Espresso Systems) </i><br>
+          7. <b>Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi</b><br>
           <i>Deevashwer Rathee (UC Berkeley)</i><br>
-          7. <b>Proof of Consensus</b><br>
+          8. <b>Proof of Consensus</b><br>
           <i>Uma Roy (Succinct Labs) </i> <br>
-          8. <b>On Defining Security of Privacy-Preserving Payment System</b><br>
+          9. <b>On Defining Security of Privacy-Preserving Payment System</b><br>
           <i>Wei Dai (Bain Capital Crypto) </i> <br>
-          9. <b>OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers</b><br>
+          10. <b>OpenZL: Proof-System Agnostic ZKP Middleware for the Next Generation of zkApp Developers</b><br>
           <i>Brandon H. Gomes (P0xeidon labs) </i> <br>
-          10. <b>Investment DAOs to Support ZKP Builders</b><br>
+          11. <b>Investment DAOs to Support ZKP Builders</b><br>
           <i>Shawn Dimantha (Hydra Ventures DAO) </i> <br> 
        </td>
        </tr>
         <tr>
-        <td align="center" colspan="2"><p style="color:#157878;"><b>Reception (5:10 pm)</b></p> </td>
+        <td align="center" colspan="2"><p style="color:#157878;"><b>Reception (5:15 pm)</b></p> </td>
       </tr>
     </tbody>
 </table>
