@@ -200,10 +200,10 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
        </td>
        </tr>
     <tr>
-      <td><p style="color:#157878;"> 6:00pm-10:00pm </td>
+      <td>6:00pm-10:00pm </td>
       <td align="center"> 
-          <b>ZKP Workshop Dinner and CESC Welcome Reception</b><br>
-Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkcollective</p> </td>
+          <b><p style="color:#157878;"> ZKP Workshop Dinner and CESC Welcome Reception </p></b><br>
+Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkcollective </td>
       </tr>    
     </tbody>
 </table>
