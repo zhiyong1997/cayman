@@ -204,9 +204,7 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
       <td align="center"> 
           <b>ZKP Workshop Dinner and CESC Welcome Reception</b><br>
 Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkcollective</p> </td>
-      </tr>
-    
-    
+      </tr>    
     </tbody>
 </table>
 
