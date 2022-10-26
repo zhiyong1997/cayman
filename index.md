@@ -199,9 +199,14 @@ We encourage submissions of contributed talks related to zero-knowledge proofs a
           <i>Shawn Dimantha (Hydra Ventures DAO) </i> <br> 
        </td>
        </tr>
-        <tr>
-        <td align="center" colspan="2"><p style="color:#157878;"><b>Reception (5:15 pm)</b></p> </td>
+    <tr>
+      <td><p style="color:#157878;"> 6:00pm-10:00pm </td>
+      <td align="center"> 
+          <b>ZKP Workshop Dinner and CESC Welcome Reception</b><br>
+Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkcollective</p> </td>
       </tr>
+    
+    
     </tbody>
 </table>
 
